@@ -1,0 +1,25 @@
+		************ Registro Acedemico ************
+
+Alumno
+Identificacion: 1146582658
+Nombres: Alex Aranda
+Email: alexflaquito95@gmail.com
+ID Alumno: aalex3
+Componentes:
+Código: 110-500	Materia: Programación Avanzada	Creditos: 4
+Código: 124-850	Materia: Cálculo	Creditos: 6
+Código: 137-390	Materia: Desarrollo Espiritual II	Creditos: 3
+
+Docente Auxiliar
+Identificacion: 1105025272
+Nombres:  Armando Cabrera
+Email: aacabrera@utpl.edu.ec
+ID Docente: aacabrera
+Horario Tutoria: Lunes a Viernes
+
+Docente Titular
+Identificacion: 14432543534
+Nombres: Rene Elizalde
+Email: relizalde@utpl.edu.ec
+ID Docente: reroes
+Horario Clase: Lunes a Miercoles
